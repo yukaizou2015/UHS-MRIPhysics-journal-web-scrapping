@@ -4,21 +4,17 @@ This is a github repository that collects scripts that perform web or pdf scrapp
 
 ## Motivation
 
-To come up with a system to review the contents pages of relevant journals periodically. There are many useful papers but our time are limited. However, one can have a quick look at those titles and find topics of interests.
- 
-An idea would be to develop a web/pdf scrapping script using python can quickly grasp these info to a cleaned spreadsheet that's stored somewhere. The papers then may be ranked as being more or less relevant.
+To come up with a system to review the contents pages of relevant journals periodically. There are many useful papers but our time are limited. However, one can have a quick look at those titles and find topics of interests. An idea would be to use a web/pdf scrapping script to collect these info to a cleaned spreadsheet and store in a shared space. On the spreadsheet the papers then may be ranked as being more or less relevant. Relevant info can include: Journal name, Volume/Issue, Category, Title, Date first published, and a DOI url link.
 
-### Relevant Info
- - Journal name
- - Volume/Issue
- - Category
- - Title
- - First Published Date
- - DOI
-
-## Targeted Journals
+## Target Journals
 
 The ISMRM publishes two journals, [Magnetic Resonance in Medicine](https://onlinelibrary.wiley.com/journal/15222594) and [Journal of Magnetic Resonance Imaging](https://onlinelibrary.wiley.com/journal/15222586). An overview can be found [here](https://www.ismrm.org/membership-journals/journals/).
+
+### MRM Highlights Discourse
+
+This is a forum where MRM readers can register (for free) and post informal comments and questions about papers on MRM. Currently the most downloaded 20% of MRM papers per issue are listed, and specific additional papers may be listed on request at mrm@ismrm.org. *Every month a coveted MRM-branded Bluetooth Key Finder will be awarded to the person with the most posts*.
+
+To visit the forum, click [here](http://mrm.ismrm.org/).
 
 ## How To Request Journal Articles
 
