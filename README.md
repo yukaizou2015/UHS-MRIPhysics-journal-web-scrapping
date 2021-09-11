@@ -1,4 +1,4 @@
-# UHS MRIPhysics Journal Review System
+# A tool for reviewing journals at UHS MRI Physics Team
 
 This is a github repository that collects scripts that perform web or pdf scrapping of journal contents, to enable periodic review of relevant journal contents for the MRI Physics team at University Hospial Southampton NHS Foundation Trust.
 
@@ -15,3 +15,33 @@ An idea would be to develop a web/pdf scrapping script using python can quickly 
  - Title
  - First Published Date
  - DOI
+
+## Targeted Journals
+
+The ISMRM publishes two journals, [Magnetic Resonance in Medicine](https://onlinelibrary.wiley.com/journal/15222594) and [Journal of Magnetic Resonance Imaging](https://onlinelibrary.wiley.com/journal/15222586). An overview can be found [here](https://www.ismrm.org/membership-journals/journals/).
+
+## How To Request Journal Articles
+
+**NOTE: You would need credentials from University of Southampton.**
+
+You can request journal articles using the [WebCat](https://www-lib.soton.ac.uk/) service provided by the Health Services Library at University of Southampton. To do so:
+ 1. Login to [WebCat](https://www-lib.soton.ac.uk/) using your Username/Password credentials
+ 2. At the navigation bar, select "Requests & Document Supply - Restricted (Covid-19)"
+ 3. Click on "Request something not available in our collections"
+ 4. Click on "Requests for Journals/Articles (including pages from)"
+ 5. Enter information about the journal articles. Supply as much info as you can so that the requested item can be found more quickly. Also indicate which department you're based at the University/NHS.
+ 6. After entering all the information, click on "Place Request". You will be notified about the status of the requested item, which normally takes one or two working days to process, and typically a PDF of the requested article.
+
+## How To Access Eletronic Book
+
+**NOTE: You would need credentials from University of Southampton.**
+
+Sometimes the Library may decide to purchase your requested item as an electronic book for library stock. Here a step-by-step instruction for how to get access, using "Quantitative Magnetic Resonance Imaging, Volume 1, 1st Edition" by Seiberlich et al. as an example:
+
+1. Go to [Health Services Library](https://library.soton.ac.uk/hsl)
+2. Find "Seiberlich Quantitative Magnetic Resonance Imaging”
+3. In Item Details, click on the link "EBSCOhost: View online”
+4. In the drop-down list of View All Institutions, select "UK Higher Education”, then “University of Southampton”
+5. Enter your university credentials
+
+
