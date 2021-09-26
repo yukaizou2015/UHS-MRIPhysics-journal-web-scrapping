@@ -14,6 +14,10 @@ The ISMRM publishes two journals, [Magnetic Resonance in Medicine](https://onlin
 
 This is a forum where MRM readers can register (for free) and post informal comments and questions about papers on MRM. Currently the most downloaded 20% of MRM papers per issue are listed, and specific additional papers may be listed on request at mrm@ismrm.org. *Every month a coveted MRM-branded Bluetooth Key Finder will be awarded to the person with the most posts*.
 
+### BIC-ISMRM Highlights & Discussion Forum
+
+The forum can be accessed [here](https://padlet.com/petelally/8rohqk9dxuon5je8). This is a place where highlights from the ISMRM 2021 Annual Meeting are collected by postdocs and students from the British & Irish Chapters, all in one place and with discussions.
+
 To visit the forum, click [here](http://mrm.ismrm.org/).
 
 ## How To Request Journal Articles
