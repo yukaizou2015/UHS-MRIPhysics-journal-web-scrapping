@@ -32,7 +32,7 @@ You can request journal articles using the [WebCat](https://www-lib.soton.ac.uk/
  5. Enter information about the journal articles. Supply as much info as you can so that the requested item can be found more quickly. Also indicate which department you're based at the University/NHS.
  6. After entering all the information, click on "Place Request". You will be notified about the status of the requested item, which normally takes one or two working days to process, and typically a PDF of the requested article.
 
-## How To Access Eletronic Book
+## How To Access Electronic Book
 
 **NOTE: You would need credentials from University of Southampton.**
 
