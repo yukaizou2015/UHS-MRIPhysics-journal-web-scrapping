@@ -1,14 +1,18 @@
-# A tool for reviewing journals at UHS MRI Physics Team
+# UHS MRI Physics Team Journal Lounge
 
-This is a github repository that collects scripts that perform web or pdf scrapping of journal contents, to enable periodic review of relevant journal contents for the MRI Physics team at University Hospial Southampton NHS Foundation Trust.
+This Github repository mainly collects scripts that perform web scrapping of journal contents, to enable periodic review of relevant journal contents for the MRI Physics Team at University Hospial Southampton NHS Foundation Trust.
 
 ## Motivation
 
-To come up with a system to review the contents pages of relevant journals periodically. There are many useful papers but our time are limited. However, one can have a quick look at those titles and find topics of interests. An idea would be to use a web/pdf scrapping script to collect these info to a cleaned spreadsheet and store in a shared space. On the spreadsheet the papers then may be ranked as being more or less relevant. Relevant info can include: Journal name, Volume/Issue, Category, Title, Date first published, and a DOI url link.
+Our team needs a solution, essentially a more systematic way, to periodically review the contents of relevant journals. There are many useful papers which we may not read given limited time. However, one can have a quick look at those titles and find topics of interests. An idea would be to use a web scrapping script to collect these info to a cleaned spreadsheet and store in a shared space. On the spreadsheet the papers then may be marked or ranked as being more or less relevant. Relevant info can include: Journal name, Volume/Issue, Category, Title, Date first published, and a DOI url link.
 
-## Target Journals
+## Targeted Journals
 
 The ISMRM publishes two journals, [Magnetic Resonance in Medicine](https://onlinelibrary.wiley.com/journal/15222594) and [Journal of Magnetic Resonance Imaging](https://onlinelibrary.wiley.com/journal/15222586). An overview can be found [here](https://www.ismrm.org/membership-journals/journals/).
+
+### JMRI - color label for team members
+
+![](https://raw.githubusercontent.com/yukaizou2015/UHS-MRIPhysics-journal-web-scrapping/main/img/workflows.png)
 
 ### MRM Highlights Discourse
 
