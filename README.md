@@ -12,7 +12,7 @@ The ISMRM publishes two journals, [Magnetic Resonance in Medicine](https://onlin
 
 ### JMRI - color label for team members
 
-![](https://raw.githubusercontent.com/yukaizou2015/UHS-MRIPhysics-journal-web-scrapping/main/img/workflows.png)
+![](https://raw.githubusercontent.com/yukaizou2015/UHS-MRIPhysics-journal-web-scrapping/main/img/jmri-team-color.png)
 
 ### MRM Highlights Discourse
 
