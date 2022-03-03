@@ -12,6 +12,8 @@ The ISMRM publishes two journals, [Magnetic Resonance in Medicine](https://onlin
 
 ### JMRI - color label for team members
 
+The spreadsheet may be accessed at the link [here](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true).
+
 Each team member will update the spreadsheet that collects the JMRI contents by using the assigned color label to mark paper of relevance:
 
 ![](https://raw.githubusercontent.com/yukaizou2015/UHS-MRIPhysics-journal-web-scrapping/main/img/jmri-team-color.png)
