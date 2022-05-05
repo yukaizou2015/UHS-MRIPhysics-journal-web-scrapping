@@ -18,6 +18,8 @@ Each team member will update the spreadsheet that collects the JMRI contents by 
 
 ![](https://raw.githubusercontent.com/yukaizou2015/UHS-MRIPhysics-journal-web-scrapping/main/img/jmri-team-color.png)
 
+ - Highlight *first column only* if the paper is of interest. Other team members may highlight other columns with their color labels as well.
+
 ### MRM Highlights Discourse
 
 This is a forum where MRM readers can register (for free) and post informal comments and questions about papers on MRM. Currently the most downloaded 20% of MRM papers per issue are listed, and specific additional papers may be listed on request at mrm@ismrm.org. *Every month a coveted MRM-branded Bluetooth Key Finder will be awarded to the person with the most posts*.
