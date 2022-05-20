@@ -30,6 +30,10 @@ To visit the forum, click [here](http://mrm.ismrm.org/).
 
 The forum can be accessed [here](https://padlet.com/petelally/8rohqk9dxuon5je8). This is a place where highlights from the ISMRM 2021 Annual Meeting are collected by postdocs and students from the British & Irish Chapters, all in one place and with discussions.
 
+### ISMRM 2022 London Annual Conference
+
+All the proceedings can be accessed [here](https://submissions.mirasmart.com/ISMRM2022/itinerary/Default.aspx?Refresh=1). Someone has made a really cool [ISMRM unofficial search app](https://ismrm2022-unofficial.netlify.app/) that can quickly find all the abstracts. Our team has a highlight board using Padlet which is available [here](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm). 
+
 ## How To Request Journal Articles
 
 **NOTE: You would need credentials from University of Southampton.**
