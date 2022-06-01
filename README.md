@@ -1,18 +1,36 @@
 # UHS MRI Physics Team Journal Lounge
 
-This Github repository mainly collects scripts that perform web scrapping of journal contents, to enable periodic review of relevant journal contents for the MRI Physics Team at University Hospial Southampton NHS Foundation Trust.
+This repository collects scripts that perform web scrapping of journal contents for the MRI Physics Team at University Hospial Southampton NHS Foundation Trust.
 
 ## Motivation
 
-Our team needs a solution, essentially a more systematic way, to periodically review the contents of relevant journals. There are many useful papers which we may not read given limited time. However, one can have a quick look at those titles and find topics of interests. An idea would be to use a web scrapping script to collect these info to a cleaned spreadsheet and store in a shared space. On the spreadsheet the papers then may be marked or ranked as being more or less relevant. Relevant info can include: Journal name, Volume/Issue, Category, Title, Date first published, and a DOI url link.
+Our team loves reading papers and sharing what we found interesting. We would like do this more regularly and more efficiently. In the past there wasn't a systematic way to allow us to periodically review the contents of relevant journals. We are quite busy at the same time, whilst there are many useful papers out there. We thought it might be a good idea to first gather the key information of papers together. For example, one may quickly skim through the titles and find "that's interesting, let me mark it and I'll come back to it later", all in one place. 
 
-## Targeted Journals
+This leads to an idea of using script to do web scrapping, collect relevant contents to a cleaned spreadsheet, and store in a shared space. On that spreadsheet, the papers then may be marked or ranked as being more or less relevant by each of the team member. 
 
-The ISMRM publishes two journals, [Magnetic Resonance in Medicine](https://onlinelibrary.wiley.com/journal/15222594) and [Journal of Magnetic Resonance Imaging](https://onlinelibrary.wiley.com/journal/15222586). An overview can be found [here](https://www.ismrm.org/membership-journals/journals/).
+## Relevant Contents 
 
-### JMRI - color label for team members
+Our team decided that the following information are relevant and should be put on spreadsheet:
 
-The spreadsheet may be accessed at the link [here](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true).
+- Journal name
+- Volume/Issue
+- Category of the paper
+- Title of the paper
+- Date first published
+- A permanent DOI address, to quickly get to the article
+    - one may look up [here](https://github.com/yukaizou2015/UHS-MRIPhysics-journal-web-scrapping/edit/main/README.md#how-to-request-journal-articles) if cannot access the full article
+- A "note" column for each of the team member
+
+## Target Journals and Platforms
+
+Our team has chosen the following two journals:
+
+- [Journal of Magnetic Resonance Imaging (JMRI)](https://onlinelibrary.wiley.com/journal/15222586)
+- [Magnetic Resonance in Medicine (MRM)](https://onlinelibrary.wiley.com/journal/15222594)
+
+An overview can be found from the ISMRM website [here](https://www.ismrm.org/membership-journals/journals/).
+
+### Color Label
 
 Each team member will update the spreadsheet that collects the JMRI contents by using the assigned color label to mark paper of relevance:
 
@@ -20,19 +38,23 @@ Each team member will update the spreadsheet that collects the JMRI contents by 
 
  - Highlight *first column only* if the paper is of interest. Other team members may highlight other columns with their color labels as well.
 
+### JMRI spreadsheet
+
+The spreadsheet for collecting JMRI contents may be accessed at the link [here](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true).
+
+### ISMRM 2022 London Annual Conference
+
+Our team has a highlight board using Padlet which is available [here](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm).
+
+All the proceedings can be accessed [here](https://submissions.mirasmart.com/ISMRM2022/itinerary/Default.aspx?Refresh=1). To quickly find all the abstract you may use this very cool [ISMRM unofficial search app](https://ismrm2022-unofficial.netlify.app/).
+
 ### MRM Highlights Discourse
 
-This is a forum where MRM readers can register (for free) and post informal comments and questions about papers on MRM. Currently the most downloaded 20% of MRM papers per issue are listed, and specific additional papers may be listed on request at mrm@ismrm.org. *Every month a coveted MRM-branded Bluetooth Key Finder will be awarded to the person with the most posts*.
-
-To visit the forum, click [here](http://mrm.ismrm.org/).
+To visit the forum, click [here](http://mrm.ismrm.org/). This is a forum where MRM readers can register (for free) and post informal comments and questions about papers on MRM. Currently the most downloaded 20% of MRM papers per issue are listed, and specific additional papers may be listed on request at mrm@ismrm.org.
 
 ### BIC-ISMRM Highlights & Discussion Forum
 
 The forum can be accessed [here](https://padlet.com/petelally/8rohqk9dxuon5je8). This is a place where highlights from the ISMRM 2021 Annual Meeting are collected by postdocs and students from the British & Irish Chapters, all in one place and with discussions.
-
-### ISMRM 2022 London Annual Conference
-
-All the proceedings can be accessed [here](https://submissions.mirasmart.com/ISMRM2022/itinerary/Default.aspx?Refresh=1). Someone has made a really cool [ISMRM unofficial search app](https://ismrm2022-unofficial.netlify.app/) that can quickly find all the abstracts. Our team has a highlight board using Padlet which is available [here](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm). 
 
 ## How To Request Journal Articles
 
