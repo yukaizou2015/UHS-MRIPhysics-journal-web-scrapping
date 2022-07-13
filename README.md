@@ -21,6 +21,16 @@ Our team decided that the following information are relevant and should be put o
     - one may look up [here](https://github.com/yukaizou2015/UHS-MRIPhysics-journal-web-scrapping/edit/main/README.md#how-to-request-journal-articles) if cannot access the full article
 - A "note" column for each of the team member
 
+## Meeting Schedule
+
+The journal club is currently being held on a monthly basis.
+
+| Date         | Topics                           |
+| ------------ | -------------------------------- |
+| 5 May 2022   | JMRI (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))     |
+| 6 June 2022  | JMRI (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))     |
+| 29 July 2022 | ISMRM & OHBM Abstracts (View [Padlet](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm))               |
+
 ## Target Journals and Platforms
 
 Our team has chosen the following two journals:
