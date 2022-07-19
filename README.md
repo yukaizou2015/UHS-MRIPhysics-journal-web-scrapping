@@ -1,5 +1,7 @@
 # UHS MRI Physics Team Journal Lounge
 
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/yukaizou2015/UHS-MRIPhysics-journal-web-scrapping/blob/main/jmri-web-scrapping-demo.ipynb)
+
 This repository collects scripts that perform web scrapping of journal contents for the MRI Physics Team at University Hospial Southampton NHS Foundation Trust.
 
 ## Motivation
