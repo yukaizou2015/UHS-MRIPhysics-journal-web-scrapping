@@ -72,13 +72,11 @@ The forum can be accessed [here](https://padlet.com/petelally/8rohqk9dxuon5je8).
 
 **NOTE: You would need credentials from University of Southampton.**
 
-You can request journal articles using the [WebCat](https://www-lib.soton.ac.uk/) service provided by the Health Services Library at University of Southampton. To do so:
- 1. Login to [WebCat](https://www-lib.soton.ac.uk/) using your Username/Password credentials
- 2. At the navigation bar, select "Requests & Document Supply - Restricted (Covid-19)"
- 3. Click on "Request something not available in our collections"
- 4. Click on "Requests for Journals/Articles (including pages from)"
- 5. Enter information about the journal articles. Supply as much info as you can so that the requested item can be found more quickly. Also indicate which department you're based at the University/NHS.
- 6. After entering all the information, click on "Place Request". You will be notified about the status of the requested item, which normally takes one or two working days to process, and typically a PDF of the requested article.
+You can request journal articles using the [Inter-library Loan Service](https://library.soton.ac.uk/ill) provided by the University of Southampton. To do so:
+ 1. Login to [Library Search](https://southampton.on.worldcat.org/discovery) using your Username/Password credentials
+ 2. Click on "Create request", and choose "Article"
+ 4. Enter information about the journal articles. Supply as much info as you can so that the requested item can be found more quickly.
+ 5. After entering all the information, click on "Submit request". You will be notified about the status of the requested item, which normally takes one or two working days to process, and typically a PDF of the requested article.
 
 ## How To Access Electronic Book
 
