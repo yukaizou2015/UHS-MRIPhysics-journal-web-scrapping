@@ -7,7 +7,9 @@ header {
     background: url(../images/background.png) #880015;
 }
 
-#banner .fork {
-    position: relative;
-    margin-left: -235px;
+#banner {
+    .fork {
+        position: relative;
+        margin-left: -235px;
+    }
 }
