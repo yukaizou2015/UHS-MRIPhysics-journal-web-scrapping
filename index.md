@@ -1,12 +1,24 @@
-[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/sotnir/mri-journal-lounge/blob/main/jmri-web-scrapping-demo.ipynb)
-
-# Welcome to the UHS MRI Physics Team Journal Lounge
-
-## Motivation
+# Welcome
 
 Our team loves reading papers and sharing what we found interesting. We would like do this more regularly and more efficiently. In the past there wasn't a systematic way to allow us to periodically review the contents of relevant journals. We are quite busy at the same time, whilst there are many useful papers out there. We thought it might be a good idea to first gather the key information of papers together. For example, one may quickly skim through the titles and find "that's interesting, let me mark it and I'll come back to it later", all in one place. 
 
-This leads to an idea of using script to do web scrapping, collect relevant contents to a cleaned spreadsheet, and store in a shared space. On that spreadsheet, the papers then may be marked or ranked as being more or less relevant by each of the team member. 
+This leads to an idea of using script to do web scraping, collect relevant contents to a cleaned spreadsheet, and store in a shared space. On that spreadsheet, the papers then may be marked or ranked as being more or less relevant by each of the team member. 
+
+You are welcome to explore how the web scraping works by the jupyter notebook tutorial below:
+
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/sotnir/mri-journal-lounge/blob/main/jmri-web-scrapping-demo.ipynb)
+
+# Logistics
+
+## Target Journal
+
+Our team has chosen [Journal of Magnetic Resonance Imaging (JMRI)](https://onlinelibrary.wiley.com/journal/15222586) as the target journal. 
+
+An overview of the journal content can be found from the ISMRM website [here](https://www.ismrm.org/membership-journals/journals/).
+
+### JMRI spreadsheet
+
+The spreadsheet for collecting JMRI contents may be accessed at the link [here](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true).
 
 ## Relevant Contents 
 
@@ -21,26 +33,7 @@ Our team decided that the following information are relevant and should be put o
     - one may look up [here](https://github.com/yukaizou2015/UHS-MRIPhysics-journal-web-scrapping/edit/main/README.md#how-to-request-journal-articles) if cannot access the full article
 - A "note" column for each of the team member
 
-## Meeting Schedule
-
-The journal club is currently being held on a monthly basis.
-
-| Date         | Topics                           |
-| ------------ | -------------------------------- |
-| 5 May 2022   | JMRI (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))     |
-| 6 June 2022  | JMRI (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))     |
-| 29 July 2022 | ISMRM & OHBM Abstracts (View [Padlet](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm))               |
-
-## Target Journals and Platforms
-
-Our team has chosen the following two journals:
-
-- [Journal of Magnetic Resonance Imaging (JMRI)](https://onlinelibrary.wiley.com/journal/15222586)
-- [Magnetic Resonance in Medicine (MRM)](https://onlinelibrary.wiley.com/journal/15222594)
-
-An overview can be found from the ISMRM website [here](https://www.ismrm.org/membership-journals/journals/).
-
-### Color Label
+## Color Labels
 
 Each team member will update the spreadsheet that collects the JMRI contents by using the assigned color label to mark paper of relevance:
 
@@ -48,25 +41,44 @@ Each team member will update the spreadsheet that collects the JMRI contents by 
 
  - Highlight *first column only* if the paper is of interest. Other team members may highlight other columns with their color labels as well.
 
-### JMRI spreadsheet
+## Meeting Schedule
 
-The spreadsheet for collecting JMRI contents may be accessed at the link [here](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true).
+The journal club meeting is held on a monthly basis. Schedule for 2023 will be determined in due course.
 
-### ISMRM 2022 London Annual Conference
+| Date            | Topics                           |
+| --------------- | -------------------------------- |
+| January 2023    | TBD     |
+| February 2023   | TBD     |
+| March 2023      | TBD     |
+| April 2023      | TBD     |
+| May 2023        | TBD     |
+| June 2023       | TBD     |
+| July 2023       | TBD     |
+| August 2023     | TBD     |
+| September 2023  | TBD     |
+| October 2023    | TBD     |
+| November 2023   | TBD     |
+| December 2023   | TBD     |
+
+# Additional Conferences and Platforms
+
+## ISMRM 2022 London Annual Conference
 
 Our team has a highlight board using Padlet which is available [here](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm).
 
 All the proceedings can be accessed [here](https://submissions.mirasmart.com/ISMRM2022/itinerary/Default.aspx?Refresh=1). To quickly find all the abstract you may use this very cool [ISMRM unofficial search app](https://ismrm2022-unofficial.netlify.app/).
 
-### MRM Highlights Discourse
+## MRM Highlights Discourse
 
 To visit the forum, click [here](http://mrm.ismrm.org/). This is a forum where MRM readers can register (for free) and post informal comments and questions about papers on MRM. Currently the most downloaded 20% of MRM papers per issue are listed, and specific additional papers may be listed on request at mrm@ismrm.org.
 
-### BIC-ISMRM Highlights & Discussion Forum
+## BIC-ISMRM Highlights & Discussion Forum
 
 The forum can be accessed [here](https://padlet.com/petelally/8rohqk9dxuon5je8). This is a place where highlights from the ISMRM 2021 Annual Meeting are collected by postdocs and students from the British & Irish Chapters, all in one place and with discussions.
 
-## How To Request Journal Articles
+# Tips
+
+## How to Request Journal Articles
 
 **NOTE: You would need credentials from University of Southampton.**
 
@@ -76,7 +88,7 @@ You can request journal articles using the [Inter-library Loan Service](https://
  4. Enter information about the journal articles. Supply as much info as you can so that the requested item can be found more quickly.
  5. After entering all the information, click on "Submit request". You will be notified about the status of the requested item, which normally takes one or two working days to process, and typically a PDF of the requested article.
 
-## How To Access Electronic Book
+## How to Access Electronic Book
 
 **NOTE: You would need credentials from University of Southampton.**
 
