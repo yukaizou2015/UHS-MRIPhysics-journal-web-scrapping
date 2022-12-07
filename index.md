@@ -20,6 +20,8 @@ An overview of the journal content can be found from the ISMRM website [here](ht
 
 ### JMRI spreadsheet
 
+The latest scrapped issue can be viewed [here](https://script.google.com/macros/s/AKfycbyV13WLm-9n4DCShUr7gzq4eMd1shJEGLI5Q1GxBZCLNnAtSskFU6yWQpm6xyEM_M7l/exec).
+
 The spreadsheet for collecting JMRI contents may be accessed at the link [here](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true).
 
 ## Relevant Contents 
