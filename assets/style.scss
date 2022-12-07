@@ -1,8 +1,8 @@
 ---
 ---
 
-.header {
-    background: darkred
-}
-
 @import "{{ site.theme }}";
+
+.header {
+    background: url(../images/background.png) darkred;
+}
