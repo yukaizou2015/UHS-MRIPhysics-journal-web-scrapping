@@ -1,6 +1,6 @@
 # UHS MRI Team Journal Lounge
 
-# Welcome
+# Welcome!
 
 Our team loves reading papers and sharing what we found interesting. We would like do this more regularly and more efficiently. In the past there wasn't a systematic way to allow us to periodically review the contents of relevant journals. We are quite busy at the same time, whilst there are many useful papers out there. We thought it might be a good idea to first gather the key information of papers together. For example, one may quickly skim through the titles and find "that's interesting, let me mark it and I'll come back to it later", all in one place. 
 

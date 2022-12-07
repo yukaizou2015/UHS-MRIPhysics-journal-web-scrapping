@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+    background: url(../images/background.png) #880015;
+}
+
+#banner .fork {
+	position: relative;
+	left: 70%;
+	margin-left: -242px;
+}
