@@ -13,3 +13,12 @@ header {
       margin-left:-235px;
     }
   }
+
+@media print, screen and (max-width: 720px) {
+    #banner {
+      .fork { 
+          position:relative;
+          left:20px;
+        }
+    }
+  }
