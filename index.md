@@ -40,7 +40,7 @@ The journal club is held on a monthly basis. Schedule for 2023 will be determine
 
 | Date            | Topics                           |
 | --------------- | -------------------------------- |
-| January 2023    | TBD     |
+| 19 January 2023    | TBD     |
 | February 2023   | TBD     |
 | March 2023      | TBD     |
 | April 2023      | TBD     |
