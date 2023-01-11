@@ -41,17 +41,11 @@ The journal club is held on a monthly basis. Schedule for 2023 will be determine
 | Date            | Topics                           |
 | --------------- | -------------------------------- |
 | 19 January 2023    | TBD     |
-| February 2023   | TBD     |
-| March 2023      | TBD     |
-| April 2023      | TBD     |
-| May 2023        | TBD     |
-| June 2023       | TBD     |
-| July 2023       | TBD     |
-| August 2023     | TBD     |
-| September 2023  | TBD     |
-| October 2023    | TBD     |
-| November 2023   | TBD     |
-| December 2023   | TBD     |
+| 2 March 2023      | TBD     |
+| 4 May 2023        | TBD     |
+| 6 July 2023       | TBD     |
+| 7 September 2023  | TBD     |
+| 2 November 2023   | TBD     |
 
 # JMRI spreadsheet
 
