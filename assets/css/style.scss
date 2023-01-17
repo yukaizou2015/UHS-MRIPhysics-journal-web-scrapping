@@ -14,12 +14,20 @@ header {
 }
 
 @media print, screen and (max-width: 325px) {
+  header {
+    position: relative;
+  }
+
   #banner {
     display: none;
   }
 }
 
 @media print, screen and (max-width: 480px) {
+  header {
+    position: fixed;
+  }
+
   header h1 {
     font-size: 20px;
   }
