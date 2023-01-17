@@ -43,6 +43,10 @@ header {
 }
 
 @media print, screen and (max-width: 325px) {
+  section {
+    margin-top: 0px;
+  }
+
   header {
     position: relative;
   }
