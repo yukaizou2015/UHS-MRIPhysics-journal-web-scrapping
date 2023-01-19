@@ -34,21 +34,21 @@ Each team member will update the JMRI spreadsheet by using the assigned color la
 
 ![](https://raw.githubusercontent.com/yukaizou2015/UHS-MRIPhysics-journal-web-scrapping/main/img/jmri-team-color.png)
 
-**Note**: Only highlight *the first column* if the paper is of interest, and other team members may highlight additional columns if they found the articles are interesting.
+**Note**: Only highlight _the first column_ if the paper is of interest, and other team members may highlight additional columns if they found the articles are interesting.
 
 ## Meeting Schedule
 
-| Date             | Topics                           |
-| ---------------- | -------------------------------- |
-| 5 May 2022       | JMRI (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))     |
-| 6 June 2022      | JMRI (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))     |
-| 29 July 2022     | ISMRM & OHBM Abstracts (View [Padlet](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm))               |
-| 19 January 2023  | JMRI Vol 56, Issues 5 & 6 (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))     |
-| 2 March 2023     | TBD     |
-| 4 May 2023       | TBD     |
-| 6 July 2023      | TBD     |
-| 7 September 2023 | TBD     |
-| 2 November 2023  | TBD     |
+| Date             | Topics                                                                                                                                                                                  |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 5 May 2022       | JMRI (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))                      |
+| 6 June 2022      | JMRI (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))                      |
+| 29 July 2022     | ISMRM & OHBM Abstracts (View [Padlet](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm))                                                                                                |
+| 19 January 2023  | JMRI Vol 56, Issues 5 & 6 (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true)) |
+| 2 March 2023     | TBD                                                                                                                                                                                     |
+| 4 May 2023       | TBD                                                                                                                                                                                     |
+| 6 July 2023      | TBD                                                                                                                                                                                     |
+| 7 September 2023 | TBD                                                                                                                                                                                     |
+| 2 November 2023  | TBD                                                                                                                                                                                     |
 
 # JMRI spreadsheet
 
@@ -81,10 +81,11 @@ The forum can be accessed [here](https://padlet.com/petelally/8rohqk9dxuon5je8).
 **NOTE: You would need credentials from University of Southampton.**
 
 You can request journal articles using the [Inter-library Loan Service](https://library.soton.ac.uk/ill) provided by the University of Southampton. To do so:
- 1. Login to [Library Search](https://southampton.on.worldcat.org/discovery) using your Username/Password credentials
- 2. Click on "Create request", and choose "Article"
- 4. Enter information about the journal articles. Supply as much info as you can so that the requested item can be found more quickly.
- 5. After entering all the information, click on "Submit request". You will be notified about the status of the requested item, which normally takes one or two working days to process, and typically a PDF of the requested article.
+
+1.  Login to [Library Search](https://southampton.on.worldcat.org/discovery) using your Username/Password credentials
+2.  Click on "Create request", and choose "Article"
+3.  Enter information about the journal articles. Supply as much info as you can so that the requested item can be found more quickly.
+4.  After entering all the information, click on "Submit request". You will be notified about the status of the requested item, which normally takes one or two working days to process, and typically a PDF of the requested article.
 
 ## How to Access Electronic Book
 

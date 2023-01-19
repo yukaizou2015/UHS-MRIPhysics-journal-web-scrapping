@@ -9,8 +9,9 @@ header {
 
 #banner .fork {
 	position: relative;
-	left: 74%;
-	margin-left: -242px;
+	left: 3em;
+  right: auto;
+	margin-left: 0;
 }
 
 @media print, screen and (max-width: 720px) {
@@ -21,7 +22,7 @@ header {
 
 @media print, screen and (max-width: 480px) {
   section {
-    margin-top: 110px;
+    margin-top: 190px;
   }
 
   header {
@@ -35,14 +36,23 @@ header {
   #banner {
     display: block;
     top: 58px;
+    height: 130px;
   }
 
   #banner .fork {
-    left: 110%
+    display: block;
+    width: 110px;
+    left: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #banner #logo {
+    margin-top: 83px;
   }
 }
 
-@media print, screen and (max-width: 325px) {
+@media print, screen and (max-width: 250px) {
   section {
     margin-top: 0px;
   }
