@@ -42,7 +42,7 @@ The journal club is held on a monthly basis. Schedule for 2023 will be determine
 
 | Date            | Topics                           |
 | --------------- | -------------------------------- |
-| 19 January 2023    | TBD     |
+| 19 January 2023   | Volume 56, Issues 5 & 6     |
 | 2 March 2023      | TBD     |
 | 4 May 2023        | TBD     |
 | 6 July 2023       | TBD     |
