@@ -38,8 +38,6 @@ Each team member will update the JMRI spreadsheet by using the assigned color la
 
 ## Meeting Schedule
 
-The journal club is held on a monthly basis. Schedule for 2023 will be determined in due course.
-
 | Date             | Topics                           |
 | ---------------- | -------------------------------- |
 | 5 May 2022       | JMRI (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))     |
