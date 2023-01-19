@@ -40,14 +40,17 @@ Each team member will update the JMRI spreadsheet by using the assigned color la
 
 The journal club is held on a monthly basis. Schedule for 2023 will be determined in due course.
 
-| Date            | Topics                           |
-| --------------- | -------------------------------- |
-| 19 January 2023   | Volume 56, Issues 5 & 6     |
-| 2 March 2023      | TBD     |
-| 4 May 2023        | TBD     |
-| 6 July 2023       | TBD     |
-| 7 September 2023  | TBD     |
-| 2 November 2023   | TBD     |
+| Date             | Topics                           |
+| ---------------- | -------------------------------- |
+| 5 May 2022       | JMRI (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))     |
+| 6 June 2022      | JMRI (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))     |
+| 29 July 2022     | ISMRM & OHBM Abstracts (View [Padlet](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm))               |
+| 19 January 2023  | JMRI Vol 56, Issues 5 & 6 (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))     |
+| 2 March 2023     | TBD     |
+| 4 May 2023       | TBD     |
+| 6 July 2023      | TBD     |
+| 7 September 2023 | TBD     |
+| 2 November 2023  | TBD     |
 
 # JMRI spreadsheet
 
