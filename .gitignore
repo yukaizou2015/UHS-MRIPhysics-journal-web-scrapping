@@ -1,0 +1,7 @@
+# Data from journal website
+rawdata/*
+processed/*
+
+# From Docker Jekyll
+vendor/*
+_site/*
