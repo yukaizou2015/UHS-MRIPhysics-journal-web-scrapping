@@ -1,0 +1,57 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+    background: url(../images/background.png) #880015;
+}
+
+#banner .fork {
+	position: relative;
+	left: 74%;
+	margin-left: -242px;
+}
+
+@media print, screen and (max-width: 720px) {
+  #banner .fork {
+    float: none;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  section {
+    margin-top: 110px;
+  }
+
+  header {
+    position: fixed;
+  }
+
+  header h1 {
+    font-size: 20px;
+  }
+
+  #banner {
+    display: block;
+    top: 58px;
+  }
+
+  #banner .fork {
+    left: 110%
+  }
+}
+
+@media print, screen and (max-width: 325px) {
+  section {
+    margin-top: 0px;
+  }
+
+  header {
+    position: relative;
+  }
+
+  #banner {
+    display: none;
+  }
+}
