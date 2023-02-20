@@ -40,10 +40,10 @@ Each team member will update the JMRI spreadsheet by using the assigned color la
 
 | Date             | Topics                                                                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5 May 2022       | JMRI (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))                      |
-| 6 June 2022      | JMRI (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true))                      |
+| 5 May 2022       | JMRI (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72))                      |
+| 6 June 2022      | JMRI (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72))                      |
 | 29 July 2022     | ISMRM & OHBM Abstracts (View [Padlet](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm))                                                                                                |
-| 19 January 2023  | JMRI Vol 56, Issues 5 & 6 (View [Spreadsheet](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true)) |
+| 19 January 2023  | JMRI Vol 56, Issues 5 & 6 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72)) |
 | 2 March 2023     | TBD                                                                                                                                                                                     |
 | 4 May 2023       | TBD                                                                                                                                                                                     |
 | 6 July 2023      | TBD                                                                                                                                                                                     |
@@ -54,7 +54,7 @@ Each team member will update the JMRI spreadsheet by using the assigned color la
 
 The latest scrapped issue can be viewed [here](https://script.google.com/macros/s/AKfycbyV13WLm-9n4DCShUr7gzq4eMd1shJEGLI5Q1GxBZCLNnAtSskFU6yWQpm6xyEM_M7l/exec).
 
-The spreadsheet for collecting JMRI contents may be accessed at the link [here](https://docs.google.com/spreadsheets/d/1-4spJ677WzYBpuzcnHu_gO0mSnoR29mk/edit?usp=sharing&ouid=117155765040566319388&rtpof=true&sd=true).
+The spreadsheet for collecting JMRI contents may be accessed at this SharePoint link [here](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72) (Note: UHS credential is required in order to access the file).
 
 # Further Readings
 
