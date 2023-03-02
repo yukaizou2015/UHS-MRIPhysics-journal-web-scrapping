@@ -42,9 +42,9 @@ Each team member will update the JMRI spreadsheet by using the assigned color la
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 5 May 2022       | JMRI (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72))                      |
 | 6 June 2022      | JMRI (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72))                      |
-| 29 July 2022     | ISMRM & OHBM Abstracts (View [Padlet](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm))                                                                                                |
+| 29 July 2022     | ISMRM & OHBM Abstracts (View [Padlet](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm)) |
 | 19 January 2023  | JMRI Vol 56, Issues 5 & 6 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72)) |
-| 2 March 2023     | TBD                                                                                                                                                                                     |
+| 2 March 2023     | JMRI Vol 57, Issues 1 & 2 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72)) |
 | 4 May 2023       | TBD                                                                                                                                                                                     |
 | 6 July 2023      | TBD                                                                                                                                                                                     |
 | 7 September 2023 | TBD                                                                                                                                                                                     |
