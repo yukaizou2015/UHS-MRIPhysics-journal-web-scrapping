@@ -5,3 +5,11 @@ processed/*
 # From Docker Jekyll
 vendor/*
 _site/*
+docker_jekyll_serve
+
+# Jupyter notebooks
+*.ipynb
+
+# MS Office files
+*.xlsx
+*.pptx

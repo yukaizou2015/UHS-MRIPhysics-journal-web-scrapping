@@ -38,17 +38,17 @@ Each team member will update the JMRI spreadsheet by using the assigned color la
 
 ## Meeting Schedule
 
-| Date             | Topics                                                                                                                                                                                  |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Date             | Topics                                                                                                                                                 |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 5 May 2022       | JMRI (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72))                      |
 | 6 June 2022      | JMRI (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72))                      |
-| 29 July 2022     | ISMRM & OHBM Abstracts (View [Padlet](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm)) |
+| 29 July 2022     | ISMRM & OHBM Abstracts (View [Padlet](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm))                                                               |
 | 19 January 2023  | JMRI Vol 56, Issues 5 & 6 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72)) |
 | 2 March 2023     | JMRI Vol 57, Issues 1 & 2 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72)) |
-| 4 May 2023       | TBD                                                                                                                                                                                     |
-| 6 July 2023      | TBD                                                                                                                                                                                     |
-| 7 September 2023 | TBD                                                                                                                                                                                     |
-| 2 November 2023  | TBD                                                                                                                                                                                     |
+| 4 May 2023       | TBD                                                                                                                                                    |
+| 6 July 2023      | TBD                                                                                                                                                    |
+| 7 September 2023 | TBD                                                                                                                                                    |
+| 2 November 2023  | TBD                                                                                                                                                    |
 
 # JMRI spreadsheet
 
@@ -60,19 +60,41 @@ The spreadsheet for collecting JMRI contents may be accessed at this SharePoint 
 
 Here we list external resources for additional journals and conferences that are of interests.
 
-## ISMRM 2022 London Annual Conference
+<div class="container">
+    <div class="reading-item">
+        <h3>ISMRM 2023 Toronto Annual Conference</h3>
+        <ul>
+          <li><a target=_blank href="https://www.ismrm.org/23/23program.htm">Preliminary Program</a></li>
+          <li>More coming soon</li>
+        </ul>
+    </div>
 
-Our team has a highlight board using Padlet which is available [here](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm).
+    <div class="reading-item">
+        <h3>ISMRM 2022 London Annual Conference</h3>
+        <ul>
+          <li><a target=_blank href="https://submissions.mirasmart.com/ISMRM2022/itinerary/ConferenceMatrix.aspx">Program</a></li>
+          <li><a target=_blank href="https://ismrm2022-unofficial.netlify.app/">Abstract Quick Search</a></li>
+          <li><a target=_blank href="https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm">Padlet highlight board</a></li>
+        </ul>
+    </div>
 
-All the proceedings can be accessed [here](https://submissions.mirasmart.com/ISMRM2022/itinerary/Default.aspx?Refresh=1). To quickly find all the abstract you may use this very cool [ISMRM unofficial search app](https://ismrm2022-unofficial.netlify.app/).
+    <div class="reading-item">
+        <h3>ISMRM<br> Highlights</h3>
+        <ul>
+          <li><a target=_blank href="https://blog.ismrm.org/category/highlights/">Visit website</a></li>
+          <li><a target=_blank href="http://mrm.ismrm.org/">MRM Highlights Forum</a></li>
+        </ul>
+    </div>
 
-## MRM Highlights Discourse
+    <div class="reading-item">
+        <h3>ISMRM<br> British-Irish Chapter</h3>
+        <ul>
+          <li><a target=_blank href="https://www.ismrm.org/chapters/british-chapter/mr-edu-series/">Educational Series</a></li>
+          <li><a target=_blank href="https://padlet.com/petelally/8rohqk9dxuon5je8">Padlet highlight board</a></li>
+        </ul>
+    </div>
 
-To visit the forum, click [here](http://mrm.ismrm.org/). This is a forum where MRM readers can register (for free) and post informal comments and questions about papers on MRM. Currently the most downloaded 20% of MRM papers per issue are listed, and specific additional papers may be listed on request at mrm@ismrm.org.
-
-## BIC-ISMRM Highlights & Discussion Forum
-
-The forum can be accessed [here](https://padlet.com/petelally/8rohqk9dxuon5je8). This is a place where highlights from the ISMRM 2021 Annual Meeting are collected by postdocs and students from the British & Irish Chapters, all in one place and with discussions.
+</div>
 
 # Useful Tips
 
