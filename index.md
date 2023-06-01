@@ -66,7 +66,7 @@ Here we list external resources for additional journals and conferences that are
         <h3>ISMRM 2023 Toronto Annual Conference</h3>
         <ul>
           <li><a target=_blank href="https://www.ismrm.org/23/23program.htm">Preliminary Program</a></li>
-          <li>More coming soon</li>
+          <li><a target=_blank href="https://ismrm2023-unofficial.netlify.app/">Abstract Quick Search</a></li>
         </ul>
     </div>
 
