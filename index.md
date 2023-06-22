@@ -47,9 +47,9 @@ Each team member will update the JMRI spreadsheet by using the assigned color la
 | 2 March 2023     | JMRI Vol 57, Issues 1 & 2 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72)) |
 | 4 May 2023       | JMRI Vol 57, Issues 3 & 4 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72)) |
 | 22 June 2023     | ISMRM Abstracts |
-| 6 July 2023      | TBD                                                                                                                                                    |
-| 7 September 2023 | TBD                                                                                                                                                    |
-| 2 November 2023  | TBD                                                                                                                                                    |
+| 6 July 2023      | JMRI Vol 57, Issues 5 & 6 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72)) |
+| 7 September 2023 | TBD |
+| 2 November 2023  | TBD |
 
 # JMRI spreadsheet
 
@@ -65,8 +65,9 @@ Here we list external resources for additional journals and conferences that are
     <div class="reading-item">
         <h3>ISMRM 2023 Toronto Annual Conference</h3>
         <ul>
-          <li><a target=_blank href="https://www.ismrm.org/23/23program.htm">Preliminary Program</a></li>
+          <li><a target=_blank href="https://www.ismrm.org/23/23program.htm">Program</a></li>
           <li><a target=_blank href="https://ismrm2023-unofficial.netlify.app/">Abstract Quick Search</a></li>
+          <li><a target=_blank href="https://padlet.com/yz23e20/uhs-mri-physics-ismrm-2023-board-o7zpdm47auzmlmvn">Padlet highlight board</a></li>
         </ul>
     </div>
 
