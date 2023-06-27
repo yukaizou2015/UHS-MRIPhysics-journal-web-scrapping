@@ -46,7 +46,7 @@ Each team member will update the JMRI spreadsheet by using the assigned color la
 | 19 January 2023  | JMRI Vol 56, Issues 5 & 6 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72)) |
 | 2 March 2023     | JMRI Vol 57, Issues 1 & 2 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72)) |
 | 4 May 2023       | JMRI Vol 57, Issues 3 & 4 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72)) |
-| 22 June 2023     | ISMRM Abstracts |
+| 22 June 2023     | ISMRM Abstracts (View [Padlet](https://padlet.com/yz23e20/uhs-mri-physics-ismrm-2023-board-o7zpdm47auzmlmvn))                                          |
 | 6 July 2023      | JMRI Vol 57, Issues 5 & 6 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/s/MRIPhysics/Eda6A5MMVqFAl35LvCgI_koB7jJMMzpvm8ogiH2v6Tkk1g?e=Ibcr72)) |
 | 7 September 2023 | TBD |
 | 2 November 2023  | TBD |
