@@ -75,6 +75,7 @@ Here we list external resources for additional journals and conferences that are
         <h3>ISMRM<br> Highlights</h3>
         <ul>
           <li><a target=_blank href="https://blog.ismrm.org/category/highlights/">Visit website</a></li>
+          <li><a target=_blank href="https://onlinelibrary.wiley.com/page/journal/15222594/homepage/virtual_issues.htm">Virtual Special Issues</a></li>
           <li><a target=_blank href="http://mrm.ismrm.org/">MRM Highlights Forum</a></li>
         </ul>
     </div>
