@@ -40,16 +40,13 @@ Each team member will update the JMRI spreadsheet by using the assigned color la
 
 | Date             | Topics                                                                                                                                                 |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 5 May 2022       | JMRI (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/r/sites/MRIPhysics/Shared%20Documents/Journal%20Lounge/JMRI/jmri-all-summary.xlsx?d=wb8209d2634604cc392f21a06ccc10f9a&csf=1&web=1&e=gOFf17))                      |
-| 6 June 2022      | JMRI (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/r/sites/MRIPhysics/Shared%20Documents/Journal%20Lounge/JMRI/jmri-all-summary.xlsx?d=wb8209d2634604cc392f21a06ccc10f9a&csf=1&web=1&e=gOFf17))                      |
-| 29 July 2022     | ISMRM & OHBM Abstracts (View [Padlet](https://padlet.com/yukaizou2012/1pegs3rgjxjq41rm))                                                               |
-| 19 January 2023  | JMRI Vol 56, Issues 5 & 6 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/r/sites/MRIPhysics/Shared%20Documents/Journal%20Lounge/JMRI/jmri-all-summary.xlsx?d=wb8209d2634604cc392f21a06ccc10f9a&csf=1&web=1&e=gOFf17)) |
-| 2 March 2023     | JMRI Vol 57, Issues 1 & 2 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/r/sites/MRIPhysics/Shared%20Documents/Journal%20Lounge/JMRI/jmri-all-summary.xlsx?d=wb8209d2634604cc392f21a06ccc10f9a&csf=1&web=1&e=gOFf17)) |
-| 4 May 2023       | JMRI Vol 57, Issues 3 & 4 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/r/sites/MRIPhysics/Shared%20Documents/Journal%20Lounge/JMRI/jmri-all-summary.xlsx?d=wb8209d2634604cc392f21a06ccc10f9a&csf=1&web=1&e=gOFf17)) |
-| 22 June 2023     | ISMRM Abstracts (View [Padlet](https://padlet.com/yz23e20/uhs-mri-physics-ismrm-2023-board-o7zpdm47auzmlmvn))                                          |
-| 6 July 2023      | Cancelled |
-| 7 September 2023 | JMRI Vol 57, Issues 5 - 8 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/r/sites/MRIPhysics/Shared%20Documents/Journal%20Lounge/JMRI/jmri-all-summary.xlsx?d=wb8209d2634604cc392f21a06ccc10f9a&csf=1&web=1&e=gOFf17)) |
-| 2 November 2023  | TBD |
+| 2 November 2023  | Vol 58, Issues 3 & 4 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/r/sites/MRIPhysics/Shared%20Documents/Journal%20Lounge/JMRI/jmri-all-summary.xlsx?d=wb8209d2634604cc392f21a06ccc10f9a&csf=1&web=1&e=gOFf17)) |
+| 4 January 2024   | TBD |
+| 7 March 2024     | TBD |
+| 2 May 2024       | TBD |
+| 4 July 2024      | TBD |
+| 5 September 2024 | TBD |
+| 7 November 2024  | TBD |
 
 # Further Readings
 
@@ -78,6 +75,7 @@ Here we list external resources for additional journals and conferences that are
         <h3>ISMRM<br> Highlights</h3>
         <ul>
           <li><a target=_blank href="https://blog.ismrm.org/category/highlights/">Visit website</a></li>
+          <li><a target=_blank href="https://onlinelibrary.wiley.com/page/journal/15222594/homepage/virtual_issues.htm">Virtual Special Issues</a></li>
           <li><a target=_blank href="http://mrm.ismrm.org/">MRM Highlights Forum</a></li>
         </ul>
     </div>
